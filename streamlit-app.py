@@ -158,6 +158,8 @@ with st.form("prediction_form"):
 st.divider()
 st.markdown("""
     <div style='text-align: center; color: gray; padding: 20px;'>
-        <p>🌱 Crop Prediction System | Made by Eng. Ahmed Shoaib</p>
+        <p>🌱 Crop Prediction System </p>
+        <p>Made by Eng. Ahmed Shoaib</p>
     </div>
+
 """, unsafe_allow_html=True)
