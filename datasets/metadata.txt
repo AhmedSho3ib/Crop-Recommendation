@@ -1,0 +1,8 @@
+N           --> Nitrogen
+P           --> Phosphorus
+K           --> Potassium
+temperature --> Average temperature of the environment, affects crop growth rate.
+humidity    --> Atmospheric moisture level; high humidity affects evapotranspiration.
+ph          --> Soil acidity/alkalinity; influences nutrient absorption.
+rainfall    --> Annual or seasonal rainfall; critical for water availability for crops.
+label       --> The Type of the planet
